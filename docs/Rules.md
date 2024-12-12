@@ -2179,3 +2179,13 @@ Enable it with `Rule1 1`
 
 ------------------------------------------------------------------------------
 
+### Solar Water Heating Differential Thermostat
+#### Background: 
+Solar array of collectors is connected by means of parallel manifolds to water heating boilers with coil heat exchangers, small circulation pump provides required head for water flow thru the system.
+Pump control system is based on two temperature sensors located at collectors oulet and inlet.
+
+#### Hardware:
+
+
+
+------------------------------------------------------------------------------
